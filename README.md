@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-Completed by B.Tech in Information Technology from SRM University. Started my career as a Frontend Developer learning HTML, CSS, Javascript, Reactjs Currently Working as a backend developer in .Net Framework (c#) I'm a Self Learner
+Did my B.Tech in Information Technology from SRM University. Started my career as a Frontend Developer learning HTML, CSS, Javascript, Reactjs. Currently Working as a backend developer in .Net Framework (c#) I'm a Self Learner
 
 * 🌍  I'm based in Jabalpur, Madhya Pradesh, But Open to work on any work location
 * ✉️  You can contact me at [aniketkhare33@gmail.com](mailto:aniketkhare33@gmail.com)
